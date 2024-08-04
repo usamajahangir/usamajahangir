@@ -17,22 +17,15 @@ For a detailed view of my work and projects, please check out my portfolio [here
 
 ## Notable Projects
 
-### 6DOF Serial Robotic Manipulator
-- **Description:** Designed to feed food to patients and the elderly.
-- **Achievement:** Won the Rector's Gold Medal for Best Project in the Mechatronics Engineering Department.
-- **Technologies Used:** Embedded systems, robotic control algorithms.
-
-### Machine Learning-Driven Monitoring and Closed-loop Control of Laser-based Additive Manufacturing Processes
-- **Description:** Research project focusing on enhancing the monitoring and control of additive manufacturing processes using machine learning techniques.
-- **Technologies Used:** Machine learning, additive manufacturing.
-
-### [Other Projects]
-- List any other significant projects here with a brief description and technologies used.
+### Assistive Feeding System (6DOF Serial Robotic Manipulator)
+- **Description:** Designed to feed food to patients and the elderly
+- **Achievement:** Successfuly fed rice to 3 test subjects and won the Rector's Gold Medal for Best Project in the Mechatronics Engineering Department
+- **Technologies Used:** Python, Raspberry Pi 3B, Monnoculor Camera, Laser Depth Sensor, Stepper and Servo Actuators, Fused Deposition Modelling
 
 ## Contact
 
-- **LinkedIn:** [Usama Jahangir](https://www.linkedin.com/in/usama--jahangir/)
-- **Email:** usama.jahangir@example.com
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-jahangir/)
+- **Email:** mr.usama.jahangir@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
