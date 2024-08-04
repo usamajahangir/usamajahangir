@@ -9,7 +9,7 @@ I am deeply passionate about robotics and mechatronics engineering. My journey s
 ## Skills
 
 - **Programming Languages:** C++, Python, Kotlin, Matlab
-- **Technologies** Docker, Git, Gitlab CI/CD
+- **Technologies:** Docker, Git, Gitlab CI/CD
 - **Other Skills:** Problem-solving, Communication, Collaboration
 
 ## Portfolio
