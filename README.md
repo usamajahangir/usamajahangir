@@ -24,7 +24,7 @@ For a detailed view of my work and projects, please check out my portfolio [here
 
 ## Contact
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-jahangir/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/usama--jahangir/)
 - **Email:** mr.usama.jahangir@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
