@@ -1,4 +1,4 @@
-## Hi 👋! It's me Usama, the roboticist wannabe.
+## Hi 👋! It's me, Usama, the roboticist wannabe.
 
 Welcome to my GitHub portfolio! I'm a passionate engineer specializing in robotics, embedded systems, and software development. Here you'll find a collection of my projects, achievements, and contributions.
 
@@ -22,6 +22,9 @@ For a detailed view of my work and projects, please check out my portfolio [here
 - **Description:** Designed to feed food to patients and the elderly
 - **Achievement:** Successfuly fed rice to 3 test subjects and won the Rector's Gold Medal for Best Project in the Mechatronics Engineering Department
 - **Technologies Used:** Python, Raspberry Pi 3B, Monnoculor Camera, Laser Depth Sensor, Stepper and Servo Actuators, Fused Deposition Modelling
+
+### Chess 2.0
+### Chess 1.0
 
 ## Contact
 
