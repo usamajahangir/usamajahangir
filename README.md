@@ -3,11 +3,11 @@
 </h1>
 
 ## About Me
-I'm deeply passionate about robotics and automation. My journey started as an Embedded Design Engineer at a Y-Combinator startup, and I've since gained experience in various aspects of engineering, including firmware development, cloud computing, edge computing, and more. 
+I'm deeply passionate about robotics and automation. My professional journey started as an Embedded Design Engineer at a Y-Combinator startup on June 2023, and I've since gained experience in various aspects of engineering, including firmware development, cloud computing, edge computing, and more. Currently, I'm working as Team Lead - Industrial Automation since Sept 2024 with multi-deciplinary team of 5, including ML, Software and Embedded Engineers.
 
 ## Skills
 - **Programming Languages:** Python, C, Kotlin, C++, MATLAB, Assembly A51
-- **Technologies:** Docker, Git, Gitlab CI/CD, ESP-IDF
+- **Technologies:** Docker, Git, Gitlab CI/CD, ESP-IDF, Proteus
 - **Soft Skills:** Problem-solving, Communication, Collaboration
 
 ## Portfolio
