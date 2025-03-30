@@ -21,6 +21,7 @@ A mechatronics engineer focused on robotics from a computing perspective. Welcom
 ## ⚡ Fun Fact
 I built a feeding robot 🤖 that nailed serving rice 🍚—until I tried it myself! 🛠️😅
 
+##
 **Heads-up:** This is my personal sandbox. Pro stuff’s locked away on GitLab under NDA.  
 
 Scroll my repos below—let’s make something wild together!
