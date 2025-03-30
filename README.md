@@ -2,9 +2,9 @@
 
 A mechatronics engineer focused on robotics from a computing perspective. Welcome to my GitHub corner!
 
-## 🚀 What Keeps Me Busy
-- 🌱 **On the Job:** Crafting sensor fusion algorithms for Level-2 ADAS—think smoother ACC, sharper AEB, and reliable LCC.  
-- 🌱 **On My Own Time:** Digging into ROS 2 to make robots dance (or at least navigate without collision).  
+## 🚀 What I’m Up To
+- 🔬 **On the Job:** Crafting sensor fusion algorithms for Level-2 ADAS—think smoother ACC, sharper AEB, and reliable LCC.  
+- ⚙️ **On My Own Time:** Digging into ROS 2 to make robots move.  
 
 ## 🛠️ My Kit
 - **Code:** C, C++, Python, Kotlin, Shell, Git, Docker  
