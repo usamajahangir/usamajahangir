@@ -21,6 +21,9 @@ A mechatronics engineer focused on robotics from a computing perspective. Welcom
 ## ⚡ Fun Fact
 I built a feeding robot 🤖 that nailed serving rice 🍚—until I tried it myself! 🛠️😅
 
+## 📈  GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamajahangir&layout=compact&theme=tokyonight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 **Heads-up:** This is my personal sandbox. Pro stuff’s locked away on GitLab under NDA.  
 
