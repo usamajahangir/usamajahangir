@@ -1,11 +1,26 @@
 # Hey there! 👋
 
-I'm Usama, a mechatronics engineer focusing on robotics from a computing perspective. Welcome to my GitHub!
+I'm Usama, a mechatronics engineer focused on robotics from a computing perspective. Welcome to my GitHub corner!
 
-- 🌱 Currently working on: Sensor fusion algorithms for Level-2 ADAS systems
-- 🔧 Software Skills: C, C++, Kotlin, Python, Git, Docker, Gitlab CI/CD
-- 🔧 Tools: Cmake, Gradle, Matlab, Proteus, Solidworks 
-- 📫 Reach me at: mr.usama.jahangir@gmail.com 
-- ⚡ fact: Github is only for my personal stuff, while professional work is on Gitlab [That's NDA protected]
+## 🚀 What I’m Up To
+- 🌱 **Currently exploring:** Sensor fusion algorithms for Level-2 ADAS systems  
 
-Check out my repos below and let’s build something awesome together!
+## 🛠️ My Kit
+- **Code:** C, C++, Python, Kotlin, Shell, Git, Docker  
+- **Gear:** ROS2, ESP32, Raspberry Pi, MATLAB, SolidWorks, 3D Printing  
+- **Tricks:** Sensor integration, embedded systems, computer vision (OpenCV, YOLO)
+
+## 🌟 Interests
+- Robotics navigation, autonomous systems, and anything that moves smarter!  
+- Open-source contributor—because code is better when shared.  
+
+## 📬 Let’s Connect
+- **Email:** mr.usama.jahangir@gmail.com  
+- **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/usama--jahangir/)]
+
+## ⚡ Fun Fact
+I built a feeding robot 🤖 that nailed serving rice 🍚—until I tried it myself! 🛠️😅
+
+**Heads-up:** This is my personal sandbox. Pro stuff’s locked away on GitLab under NDA.  
+
+Scroll my repos below—let’s make something wild together!
