@@ -1,18 +1,18 @@
-# Hey there! 👋
+# Hi! I'm Usama 👋
 
-I'm Usama, a mechatronics engineer focused on robotics from a computing perspective. Welcome to my GitHub corner!
+A mechatronics engineer focused on robotics from a computing perspective. Welcome to my GitHub corner!
 
-## 🚀 What I’m Up To
-- 🌱 **Currently exploring:** Sensor fusion algorithms for Level-2 ADAS systems  
+## 🚀 What Keeps Me Busy
+- 🌱 **On the Job:** Crafting sensor fusion algorithms for Level-2 ADAS—think smoother ACC, sharper AEB, and reliable LCC.  
+- 🌱 **On My Own Time:** Digging into ROS 2 to make robots dance (or at least navigate without collision).  
 
 ## 🛠️ My Kit
 - **Code:** C, C++, Python, Kotlin, Shell, Git, Docker  
-- **Gear:** ROS2, ESP32, Raspberry Pi, MATLAB, SolidWorks, 3D Printing  
+- **Gear:** ROS2, ESP32, Raspberry Pi, Rockchip RK3588, MATLAB, SolidWorks, 3D Printing  
 - **Tricks:** Sensor integration, embedded systems, computer vision (OpenCV, YOLO)
 
 ## 🌟 Interests
 - Robotics navigation, autonomous systems, and anything that moves smarter!  
-- Open-source contributor—because code is better when shared.  
 
 ## 📬 Let’s Connect
 - **Email:** mr.usama.jahangir@gmail.com  
