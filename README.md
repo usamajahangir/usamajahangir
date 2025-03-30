@@ -16,7 +16,7 @@ I'm Usama, a mechatronics engineer focused on robotics from a computing perspect
 
 ## 📬 Let’s Connect
 - **Email:** mr.usama.jahangir@gmail.com  
-- **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/usama--jahangir/)]
+- **LinkedIn:** [[linkedin.com/in/usama--jahangir](https://www.linkedin.com/in/usama--jahangir/)]
 
 ## ⚡ Fun Fact
 I built a feeding robot 🤖 that nailed serving rice 🍚—until I tried it myself! 🛠️😅
