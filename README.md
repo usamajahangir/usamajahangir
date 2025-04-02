@@ -4,12 +4,12 @@ A mechatronics engineer focused on robotics from a computing perspective. Welcom
 
 ## 🚀 What I’m Up To
 - 🔬 **On the Job:** Crafting sensor fusion algorithms for Level-2 ADAS—think smoother ACC, sharper AEB, and reliable LCC.  
-- ⚙️ **On My Own Time:** Digging into ROS 2 to make robots move.  
+- ⚙️ **On My Own Time:** Digging into ROS2 to make robots move.  
 
 ## 🛠️ My Kit
-- **Code:** C, C++, Python, Kotlin, Shell, Git, Docker  
+- **Code:** C, C++, Python, Kotlin, Shell, Git, Docker, CI/CD
 - **Gear:** ROS2, ESP32, Raspberry Pi, Rockchip RK3588, MATLAB, SolidWorks, 3D Printing  
-- **Tricks:** Sensor integration, embedded systems, computer vision (OpenCV, YOLO)
+- **Tricks:** Sensor integration & data fusion, embedded firmware design, computer vision (OpenCV, YOLO)
 
 ## 🌟 Interests
 - Robotics navigation, autonomous systems, and anything that moves smarter!  
