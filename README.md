@@ -1,30 +1,39 @@
 # Hi! I'm Usama 👋
 
-A mechatronics engineer focused on robotics from a computing perspective. Welcome to my GitHub corner!
+**Mechatronics Engineer | Roboticist | Algorithm Engineer**
+
+I bridge the gap between mechanical systems and intelligent computing. Welcome to my GitHub corner!
+
+🌐 **Check out my full portfolio:** [usamajahangir.github.io](https://usamajahangir.github.io)
+
+---
 
 ## 🚀 What I’m Up To
-- 🔬 **On the Job:** Crafting sensor fusion algorithms for Level-2 ADAS—think smoother ACC, sharper AEB, and reliable LCC.  
-- ⚙️ **On My Own Time:** Digging into ROS2 to make robots move.  
+- 🔭 **On the Job:** Working as an **Algorithm Engineer** at **Software Motion**, crafting Object Trace Modules and sensor fusion algorithms (Camera + Radar) for Level-2 ADAS features (AEB, ACC, LCC).
+- 📄 **Research:** Recently published *"[Assistive Feeding System: Design and Evaluation](https://doi.org/10.1109/ICRAI62391.2024.10894327)"* at the **6th IEEE ICRAI Conference**.
+- ⚙️ **On My Own Time:** Digging deeper into **ROS2** navigation stacks and building my [portfolio website](https://github.com/usamajahangir/usamajahangir.github.io).
 
 ## 🛠️ My Kit
-- **Code:** C, C++, Python, Kotlin, Shell, Git, Docker, CI/CD
-- **Gear:** ROS2, ESP32, Raspberry Pi, Rockchip RK3588, MATLAB, SolidWorks, 3D Printing  
-- **Tricks:** Sensor integration & data fusion, embedded firmware design, computer vision (OpenCV, YOLO)
+| Category | Tools & Tech |
+|:--- |:--- |
+| **Languages** | C, C++, Python, Kotlin, Shell |
+| **Robotics & AI** | ROS2, OpenCV, YOLO, Kalman Filters, Sensor Fusion |
+| **Embedded** | ESP32, Raspberry Pi, Rockchip RK3588, FreeRTOS |
+| **DevOps & Tools** | Docker, Git, CI/CD, MATLAB, SolidWorks |
 
 ## 🌟 Interests
-- Robotics navigation, autonomous systems, and anything that moves smarter!  
+- **Physical AI:** Making robots interact intelligently with the real world.
+- **Autonomous Systems:** From ground rovers to highway autopilots.
+- **Assistive Tech:** Robotics that help people (like my feeding robot!).
 
 ## 📬 Let’s Connect
-- **Email:** mr.usama.jahangir@gmail.com  
 - **LinkedIn:** [linkedin.com/in/usama--jahangir](https://www.linkedin.com/in/usama--jahangir/)
+- **Email:** [mr.usama.jahangir@gmail.com](mailto:mr.usama.jahangir@gmail.com)
 
 ## ⚡ Fun Fact
-I built a feeding robot 🤖 that nailed serving rice 🍚—until I tried it myself! 🛠️😅
+I built a 6-DoF feeding robot 🤖 that nailed serving rice 🍚 during testing... but let's just say I was nervous when I tried it myself! 🛠️😅
 
-## 📈  GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamajahangir&layout=compact&theme=tokyonight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
-
-##
-**Heads-up:** This is my personal sandbox. Pro stuff’s locked away on GitLab under NDA.  
+---
+> **Heads-up:** This is my personal sandbox. Much of my professional work (Industrial Automation & ADAS) is locked away on GitLab under NDA. 🔒  
 
 Scroll my repos below—let’s make something wild together!
