@@ -4,7 +4,7 @@
 
 I bridge the gap between mechanical systems and intelligent computing. Welcome to my GitHub corner!
 
-🌐 **Check out my full portfolio:** [[usama-jahangir.vercel.app](https://usama-jahangir.vercel.app/)]
+🌐 **Check out my full portfolio:** [[usama-jahangir.is-a.dev](https://usama-jahangir.is-a.dev)]
 
 ---
 
