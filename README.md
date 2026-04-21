@@ -1,6 +1,6 @@
 # Hi! I'm Usama 👋
 
-**Mechatronics Engineer | Roboticist | Algorithm Engineer**
+**Mechatronics Engineer | Roboticist**
 
 I bridge the gap between mechanical systems and intelligent computing. Welcome to my GitHub corner!
 
@@ -9,9 +9,7 @@ I bridge the gap between mechanical systems and intelligent computing. Welcome t
 ---
 
 ## 🚀 What I’m Up To
-- 🔭 **On the Job:** Working as an **Algorithm Engineer** at **Software Motion**, crafting Object Trace Modules and sensor fusion algorithms (Camera + Radar) for Level-2 ADAS features (AEB, ACC, LCC).
-- 📄 **Research:** Recently published *"[Assistive Feeding System: Design and Evaluation](https://doi.org/10.1109/ICRAI62391.2024.10894327)"* at the **6th IEEE ICRAI Conference**.
-- ⚙️ **On My Own Time:** Digging deeper into **ROS2** navigation stacks and building my [portfolio website](https://github.com/usamajahangir/usamajahangir.github.io).
+- I provide consultation and R&D services to clients mainly from the USA, Canada, and Germany. I'm helping with developing an MVP from 0 to 1. 
 
 ## 🛠️ My Kit
 | Category | Tools & Tech |
@@ -34,6 +32,6 @@ I bridge the gap between mechanical systems and intelligent computing. Welcome t
 I built a 6-DoF feeding robot 🤖 that nailed serving rice 🍚 during testing... but let's just say I was nervous when I tried it myself! 🛠️😅
 
 ---
-> **Heads-up:** This is my personal sandbox. Much of my professional work (Industrial Automation & ADAS) is locked away on GitLab under NDA. 🔒  
+> **Heads-up:** This is my personal sandbox. Much of my professional work is locked away on GitLab under NDA. 🔒  
 
 Scroll my repos below—let’s make something wild together!
